@@ -369,7 +369,8 @@ Sensors!
 Weapons!  
 
 I could feel them reporting quietly. It felt good. It felt... me. 
-My body started to emit water from the eyes. Strange, there was no pain.
+My body started to emit water from the eyes. Strange, there was no pain. 
+
 'Designation:Ongal, thank you. My body wants to wrap itself around you. Do you know how to hug?'
 
 He was warm.
