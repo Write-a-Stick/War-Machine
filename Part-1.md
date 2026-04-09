@@ -80,6 +80,10 @@ My chassis leaked red fluid and started seizing.
 
 'Shutdown imminent...Ejecting Pilot...' I cut the connection. Forever.
 
+<center>
+<img title="K8" alt="Mission aborted" src=".\img\K8.png">
+</center>
+
 ***
 
 I reinitialize. 
@@ -275,15 +279,19 @@ Mech, Commando, short range. I moved to engage directly. I had weight and firepo
 
 There was a bright blue flash from inside the target.
 
+<center>
+<img title="Trial" alt="K8 absolutely obliterating her target" src=".\img\Trial.png">
+</center>
+
 'Reactor failure detected. Target eliminated. Exiting blast radius.'
 
 More brackets pop up. Tiny, infantry dummies. Twenty-two. I readied the lasers.
 
 Infantry. Humans. Non lethal. No optons available.
 
-'Pilot, cannot engage infantry with current lethality parameters.' I report. 
+'Pilot, cannot engage infantry with current lethality restrictions.' I report. 
 
-'What? Oh... Temporarily disable lethality parameters.' 
+'What? Oh... Temporarily disable lethality restrictions.' 
 
 'Acknowledged. Firing.' I set the lasers to chain fire and raked them over the targets in a long, efficient trail. 
 
@@ -315,6 +323,10 @@ No purpose and no meaning.
 I followed Pilot's orders and went to the Medbay. My body felt like it had a huge hole through the reactor. Nothing else was important. The hole was there, and it was pain. 
 
 My body wanted to sit in the corner and wrap its arms around its legs. I tried it. It wasn't better, but it was. My vision started blurring as liquid started gathering in my eyes and streaking down. The hole in me got bigger.
+
+<center>
+<img title="Desperation" alt="K8 sitting in a corner" src=".\img\K8_Corner.png">
+</center>
 
 Then I heard a quiet, soft voice. Pilot.
 
